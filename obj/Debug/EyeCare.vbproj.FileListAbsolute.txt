@@ -1,0 +1,13 @@
+C:\Users\Player\source\repos\EyeCare\bin\Debug\EyeCare.exe.config
+C:\Users\Player\source\repos\EyeCare\bin\Debug\EyeCare.exe
+C:\Users\Player\source\repos\EyeCare\bin\Debug\EyeCare.pdb
+C:\Users\Player\source\repos\EyeCare\bin\Debug\EyeCare.xml
+C:\Users\Player\source\repos\EyeCare\obj\Debug\EyeCare.vbprojAssemblyReference.cache
+C:\Users\Player\source\repos\EyeCare\obj\Debug\EyeCare.Form1.resources
+C:\Users\Player\source\repos\EyeCare\obj\Debug\EyeCare.Resources.resources
+C:\Users\Player\source\repos\EyeCare\obj\Debug\EyeCare.vbproj.GenerateResource.cache
+C:\Users\Player\source\repos\EyeCare\obj\Debug\EyeCare.vbproj.CoreCompileInputs.cache
+C:\Users\Player\source\repos\EyeCare\obj\Debug\EyeCare.exe
+C:\Users\Player\source\repos\EyeCare\obj\Debug\EyeCare.xml
+C:\Users\Player\source\repos\EyeCare\obj\Debug\EyeCare.pdb
+C:\Users\Player\source\repos\EyeCare\obj\Debug\EyeCare.Form2.resources
